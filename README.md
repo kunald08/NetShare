@@ -188,4 +188,4 @@ Built as a portfolio project demonstrating:
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
