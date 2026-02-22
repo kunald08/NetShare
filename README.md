@@ -22,6 +22,22 @@ Transfer files and folders between computers on the same network — no internet
 
 ---
 
+## Screenshots
+
+| Send Tab                           | Receive Tab                              |
+| ---------------------------------- | ---------------------------------------- |
+| ![Send Tab](assets/send%20tab.png) | ![Receive Tab](assets/receive%20tab.png) |
+
+| Monitor Tab                              | History Tab                              |
+| ---------------------------------------- | ---------------------------------------- |
+| ![Monitor Tab](assets/monitor%20tab.png) | ![History Tab](assets/history%20tab.png) |
+
+| Settings Tab                               |
+| ------------------------------------------ |
+| ![Settings Tab](assets/settings%20tab.png) |
+
+---
+
 ## How It Works
 
 ```
